@@ -1,0 +1,26 @@
+[
+    {
+        "id": 1,
+        "name": "Dr. Robert Anderson",
+        "img": "https://i.ibb.co/kh4sVKt/Portrait-Of-Mature-Male-Doctor-Wearing-White-Coat-Standing-In-Hospital-Corridor.jpg",
+        "specialized": "Cardiologist(heart specialist)"
+    },
+    {
+        "id": 2,
+        "name": "Dr. Kathryn Barlow",
+        "img": "https://i.ibb.co/FHWY0pD/Portrait-of-middle-aged-asian-female-doctor-standing-in-hospital-corridor.jpg",
+        "specialized": "Dentist(tooth specialist)"
+    },
+    {
+        "id": 3,
+        "name": "Dr. Noel Hauge",
+        "img": "https://i.ibb.co/rMF0mhS/doctor-1.png",
+        "specialized": "Ophthalmologist(specializes in eye diseases)"
+    },
+    {
+        "id": 4,
+        "name": "Dr. Tanya Sale",
+        "img": "https://i.ibb.co/h1xnwPw/doctor-3.png",
+        "specialized": "General Doctor"
+    }
+]

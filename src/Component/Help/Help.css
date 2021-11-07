@@ -1,0 +1,17 @@
+.help-container{
+    margin-top: 150px;
+}
+.custom-color{
+    color: #00E5CC;
+    border-radius: 5px;
+}
+.custom-background{
+    background-color: #00E5CC;
+    padding: 50px;
+    border-radius: 5px;
+}
+.custom-background-1{
+    background-color: #000E44;
+    border-radius: 5px;
+    padding: 70px;
+}

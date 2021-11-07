@@ -1,0 +1,21 @@
+.form{
+    margin-top: 150px;
+    border: 1px solid gray ;
+    margin-left: 150px;
+    margin-right: 150px;
+    padding-top: 30px;
+    padding-bottom: 20px;
+    padding-right: 30px;
+}
+
+@media only screen and (max-width:688px) {
+    .form{
+        margin-top: 100px;
+        border: 1px solid gray ;
+        margin-left: 0px;
+        margin-right: 0px;
+        padding-top: 0px;
+        padding-bottom: 0px;
+        padding-right: 0px;
+    }
+}
